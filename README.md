@@ -14,7 +14,7 @@ I was grateful that the Digital Humanities section of the Library and Informatio
 ### [My Chop Suey Game](Suey.html)
 An in progress game being built with Bitsy
 
-### [Taroko Gorge Remix](taroko-gorge.html)
+### [Noodle King, a Taroko Gorge Remix](taroko-gorge.html)
 A computer-generated infinite poem about being a cook in a Chinese restaurant
 
 ### [Genevieve Twine](Genevieve.html)
@@ -23,4 +23,4 @@ A Twine about an early American explorer to China
 ### [Working Mom Generator](WorkingMom.html)
 A pretty self-explanatory generator of some things that might keep me (or you) up at night
 
-Thank you for visiting my portfolio! Feel free to explore the projects and reach out if you have any questions or collaboration ideas
+Thank you for visiting my portfolio!
