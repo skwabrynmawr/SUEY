@@ -7,8 +7,7 @@
 ## Projects
 
 ### What I Did This Week
-
-
+### (IMG_0677.jpeg)
 
 But what were you doing there, though?
 
