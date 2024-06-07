@@ -1,4 +1,4 @@
-# chop-suey-game
+# SUEY
 
 # My Chop Suey Game
 
@@ -7,7 +7,7 @@
 ## Projects
 
 ### What I Did This Week
-
+![but what are you doing in there?]](IMG_0677.jpeg)
 
 ### [My Chop Suey Game](Suey.html)
 An engaging maze game built with Bitsy, featuring complex maze structures and interesting challenges for players of all ages
