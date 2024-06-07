@@ -8,7 +8,8 @@
 
 ### What I Did This Week
 ### University of Victoria
-!(IMG_0677.jpeg)
+
+![Mearns](IMG_0677.jpeg)
 
 But what were you doing there, though?
 
