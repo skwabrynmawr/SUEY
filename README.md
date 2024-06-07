@@ -4,9 +4,7 @@
 
 
 
-## Projects
-
-### What I Did This Week
+## What I Did This Week
 ### I Visited the University of Victoria
 
 ![Mearns](IMG_0677.jpeg)
