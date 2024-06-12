@@ -11,7 +11,7 @@
 
 I was grateful that the Digital Humanities section of the Library and Information Technology Services Department at Bryn Mawr College sent me to take part in this workshop to think about how I might want to use some of these tools in my research and teaching.
 
-### [My Chop Suey Game](Suey.html)
+### [My Chop Suey Game](Chop_Suey_the_Game.html)
 An in progress game being built with Bitsy
 
 ### [Noodle King, a Taroko Gorge Remix](taroko-gorge.html)
